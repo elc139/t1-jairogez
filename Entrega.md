@@ -5,8 +5,8 @@ Nome: Jairo Ferreira Gez
 
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
-| Nome/Título                                               |                       |                 |
-| Imagem (foto, diagrama, screenshot, etc.)                 |Summit <img src="https://s2.glbimg.com/rArBDIKDXsCbV3LjGbLkHATGO6k=/0x0:825x464/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/s/8/ciOt52SzAKlMTZdlZnog/supercomputador1.jpg" width="48"> | Meu desktop <img src="pc.jpg" width="48">|
+| Nome/Título                                               |    Summit                   |      Meu desktop           |
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://s2.glbimg.com/rArBDIKDXsCbV3LjGbLkHATGO6k=/0x0:825x464/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/s/8/ciOt52SzAKlMTZdlZnog/supercomputador1.jpg" width="48"> |  <img src="pc.jpg" width="48">|
 | Classificação de Flynn                                    |MIMD                   |MISD             |
 | Memória: compartilhada, distribuída ou ambas?             |Ambas                  |Compartilhada    |
 | Número total de núcleos de processamento                  |2.397.824 Núcleos      |4 Núcleos e 4 Threads|
