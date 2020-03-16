@@ -9,7 +9,7 @@ Nome: < Jairo Ferreira Gez >
 | Imagem (foto, diagrama, screenshot, etc.)                 |Summit <img src="https://s2.glbimg.com/rArBDIKDXsCbV3LjGbLkHATGO6k=/0x0:825x464/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/s/8/ciOt52SzAKlMTZdlZnog/supercomputador1.jpg" width="48"> | Meu desktop <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
 | Classificação de Flynn                                    |MIMD                   |MISD             |
 | Memória: compartilhada, distribuída ou ambas?             |Ambas                  |Compartilhada    |
-| Número total de núcleos de processamento                  |2.397.824              |4 Cores e 4 Threads|
+| Número total de núcleos de processamento                  |2.397.824 Núcleos      |4 Núcleos e 4 Threads|
 | Fabricante e modelo do(s) processador(es)                 |IBM POWER9 22C         |Intel Core i5-3300|
 | Frequência do(s) processador(es)                          |3,07GHz                |3,00GHz          |
 | Memória total                                             |2.801.664 GB           |8GB              |
